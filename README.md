@@ -1,7 +1,7 @@
 ___
-# Dove Chat Agent
+# DoveAI Chat Agent
 
-The **Dove Chat Agent** is an advanced AI chatbot designed to provide insightful, emotion-aware responses to user queries. Leveraging state-of-the-art language models and emotion detection, the chatbot offers personalized interactions, contextually accurate answers, and dynamic user engagement.
+The **DoveAI Chat Agent** is an advanced AI chatbot designed to provide insightful, emotion-aware responses to user queries. Leveraging state-of-the-art language models and emotion detection, the chatbot offers personalized interactions, contextually accurate answers, and dynamic user engagement.
 
 ## Key Features
 
